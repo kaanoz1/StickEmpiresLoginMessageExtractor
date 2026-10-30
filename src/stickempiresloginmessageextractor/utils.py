@@ -1,0 +1,2 @@
+SERVER_IP: str = "23.23.246.201"
+PORT: int = 9933
