@@ -27,6 +27,10 @@ After that, you can continue to follow the instructions of [StickEmpiresDailyCoi
 
 > **Warning:** The login message contains your account credentials in hashed form. Do not share it with anyone.
 
+## Disclaimer !!!
+
+Automating your account may go against the game's rules. Use this project at your own risk. The author is not responsible for any ban, suspension, loss of coins or any other damage to your account that may result from using it.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
